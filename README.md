@@ -14,7 +14,8 @@ Things to look out for:
 Improvments:
 -When the width and height is to large the memory fills and breaks the game.
 -Not very fast while being able to watch.
--Fixes on the solver.
+-Fixes to the solver.
+-Freezes at the end. always.
 
 Happy Coding!
 -Lotux
