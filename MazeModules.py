@@ -83,7 +83,7 @@ def CheckRoutes(CurrentX, CurrentY):
         LastX = LastCoords[0]
         LastY = LastCoords[1]
 
-        FinishPath.append((_width*10 - _length, -(_width*10)) + _length)
+        FinishPath.append((_width*10 - _length, -(_width*10) + _length))
         FinishPath.append((LastX, LastY - _length))
     else:
         UpCoords = (CurrentX, CurrentY + _length)
